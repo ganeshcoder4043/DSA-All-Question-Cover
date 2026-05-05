@@ -1,0 +1,96 @@
+DSA (Data Structures & Algorithms)
+│
+├── 📦 DATA STRUCTURES (Data Ko Kaise Rakhein)
+│   │
+│   ├── Linear DS
+│   │   ├── Array (Static/Dynamic)
+│   │   ├── String
+│   │   ├── Linked List (Singly/Doubly/Circular)
+│   │   ├── Stack (LIFO)
+│   │   └── Queue (FIFO, Deque, PriorityQueue)
+│   │
+│   ├── Non-Linear DS
+│   │   ├── Tree (Binary Tree, BST, AVL, Segment Tree, Trie)
+│   │   ├── Graph (BFS/DFS, Dijkstra, MST, Topological Sort)
+│   │   └── Heap (PriorityQueue)
+│   │
+│   └── Hashing
+│       ├── HashMap / HashSet
+│       └── LinkedHashMap / TreeMap / TreeSet
+│
+├── 🧠 ALGORITHMS (Data Ke Saath Kya Karna Hai)
+│   │
+│   ├── Basic Techniques
+│   │   ├── Brute Force
+│   │   ├── Recursion
+│   │   └── Backtracking
+│   │
+│   ├── Searching
+│   │   ├── Linear Search
+│   │   └── Binary Search (Normal + On Answer)
+│   │
+│   ├── Sorting
+│   │   ├── Bubble, Selection, Insertion (Basic)
+│   │   ├── Merge, Quick, Heap (Advanced)
+│   │   └── Counting, Radix (Special)
+│   │
+│   └── Optimization Techniques (🔥 यहीं है Two Pointers & Sliding Window)
+│       ├── Two Pointers
+│       ├── Sliding Window (Fixed + Variable)
+│       ├── Prefix Sum
+│       ├── Kadane's Algorithm
+│       ├── Dutch National Flag
+│       └── Moore's Voting Algorithm
+│
+├── 🧩 ADVANCED PARADIGMS (Bade Weapons)
+│   ├── Dynamic Programming (1D, 2D, Knapsack, LCS, LIS, MCM, DP on Grid)
+│   ├── Greedy Algorithms
+│   ├── Divide & Conquer
+│   └── Bit Manipulation
+│
+└── 🔗 GRAPH ALGORITHMS (Bada Ocean)
+    ├── BFS / DFS / Dijkstra
+    ├── Bellman Ford / Floyd Warshall
+    ├── MST (Prims, Kruskal)
+    ├── Topological Sort (Kahn's, DFS)
+    ├── Union Find (Disjoint Set)
+    └── Cycle Detection
+
+
+
+
+
+
+
+Complete DSA Learning Order (Step by Step)->
+
+PHASE 0: Language + Time/Space Complexity (✅ Done)
+│
+├── PHASE 1: Basic DS (Array, String, ArrayList, HashMap)
+│       └── Problems: 15-20 Easy (LeetCode)
+│
+├── PHASE 2: Searching & Sorting
+│       └── Linear/Binary Search → Recursion → Merge/Quick Sort
+│
+├── PHASE 3: Optimization Techniques (🔥 Yahaan Two Pointers, Sliding Window)
+│       └── Two Pointers, Sliding Window, Prefix Sum, Kadane's
+│
+├── PHASE 4: Linked List
+│       └── Singly/Doubly (Reversal, Slow-Fast, Merge List)
+│
+├── PHASE 5: Stack & Queue
+│       └── Monotonic Stack, Sliding Window with Deque
+│
+├── PHASE 6: Tree
+│       └── Binary Tree → BST → Complete/Balanced Tree
+│
+├── PHASE 7: Recursion & Backtracking (Phir se deep dive)
+│
+├── PHASE 8: Dynamic Programming (DP)
+│       └── 1D → 2D → Knapsack Pattern → LCS Pattern → MCM Pattern
+│
+├── PHASE 9: Graph
+│       └── BFS → DFS → Dijkstra → MST → Union Find → Topo Sort
+│
+└── PHASE 10: Advanced (Optional but good)
+        └── Bit Manipulation, Tries, Segment Tree, Intervals

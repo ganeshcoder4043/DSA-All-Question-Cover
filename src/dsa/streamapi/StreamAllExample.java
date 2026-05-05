@@ -8,10 +8,10 @@ import java.util.List;
 public class StreamAllExample {
     public static void main(String[] args){
                   /* filter -> filter the data  */
-        /*List<Integer> list = Arrays.asList(45, 12, 89, 34, 67, 23, 56, 78, 91, 5);
+        List<Integer> list = Arrays.asList(45, 12, 89, 34, 67, 23, 56, 78, 91, 5);
               //-> find even number
         List<Integer> filterList = list.stream().filter(i -> i % 2 == 0).toList();
-        System.out.println(filterList);*/
+        System.out.println(filterList);
 
              /* map -> transform the data */
         /*List<Integer> list = Arrays.asList(45, 12, 89, 34, 67, 23, 56, 78, 91, 5);
@@ -91,8 +91,5 @@ Kyunki ab sorting logic reverse ho gaya hai, toh jab min() method descending ord
         // dono way se kr skten hai
 
 
-                   /* how to convert stream of object into arrays */
-
-        List<Integer> list = Arrays.asList(45, 12, 89, 34, 67, 23, 56, 78, 91, 5);
     }
 }
