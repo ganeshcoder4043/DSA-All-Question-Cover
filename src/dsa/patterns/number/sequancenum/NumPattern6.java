@@ -1,14 +1,16 @@
-package dsa.patterns.character;
+package dsa.patterns.number.sequancenum;
 
-public class Pattern4 {
+public class NumPattern6 {
     public static void main(String[] args) {
-        for (int i=1;i<=5;i++){
+        for (int i=1; i<=5; i++){
             for (int s=4; s>=i;s--){
                 System.out.print(" ");
             }
+
             for (int j=1; j<=i; j++){
-                System.out.print("a");
+                System.out.print(i+ " ");
             }
+
             System.out.println();
         }
     }

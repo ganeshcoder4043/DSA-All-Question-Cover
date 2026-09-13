@@ -1,0 +1,16 @@
+package dsa.patterns.number.randomnum;
+
+public class random5 {
+    public static void main(String[] args) {
+        for (int i=1; i<=5; i++ ){
+
+            for (int s=0; s<=i;s++){
+                System.out.print(" ");
+            }
+            for (int j=5; j>=i; j--){
+                System.out.print(j);
+            }
+            System.out.println();
+        }
+    }
+}
